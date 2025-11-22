@@ -7,7 +7,10 @@
  * 
  * Written by Bunny83 
  * 2012-06-09
- * 
+ *
+ * NET 3.5 / C#5 Tweaks by KoMiKoZa for Necropolis JSONLocalizeAPI
+ * 2025-11-22
+ *
  * Changelog now external. See Changelog.txt
  * 
  * The MIT License (MIT)
@@ -1432,4 +1435,5 @@ namespace SimpleJSON
             return JSONNode.Parse(aJSON);
         }
     }
+
 }
