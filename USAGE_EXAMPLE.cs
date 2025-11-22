@@ -137,7 +137,6 @@ namespace KoMiKoZa.Necropolis.ParryMechanic
     {
       "en": "Oh, look at you. A parry. How impressive.",
       "ru": "Ого, смотри-ка. Парирование. Очень впечатляет.",
-      "de": "Oh, schau dich an. Eine Parade. Wie beeindruckend."
     },
     {
       "en": "A parry? That was definitely skill and not luck.",
@@ -177,3 +176,4 @@ namespace KoMiKoZa.Necropolis.ParryMechanic
   ]
 }
 */
+
