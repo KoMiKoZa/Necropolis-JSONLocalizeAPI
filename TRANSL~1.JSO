@@ -1,0 +1,47 @@
+{
+  "example_toast_messages": [
+    {
+      "en": "English message 1",
+      "ru": "Russian message 1",
+      "fr": "French message 1",
+      "de": "German message 1",
+      "es": "Spanish message 1",
+      "it": "Italian message 1",
+      "pl": "Polish message 1",
+      "pt-BR": "Portuguese message 1"
+    },
+    {
+      "en": "English message 2",
+      "ru": "Russian message 2"
+    }
+  ],
+
+  "example_single_string": {
+    "en": "Single English text",
+    "ru": "Single Russian text",
+    "de": "Single German text"
+  },
+
+  "example_achievement_title": {
+    "en": "Achievement Name",
+    "ru": "Название достижения"
+  },
+
+  "example_ui_labels": [
+    {
+      "en": "Settings",
+      "ru": "Настройки",
+      "de": "Einstellungen"
+    },
+    {
+      "en": "Apply",
+      "ru": "Применить",
+      "de": "Anwenden"
+    },
+    {
+      "en": "Cancel",
+      "ru": "Отмена",
+      "de": "Abbrechen"
+    }
+  ]
+}
