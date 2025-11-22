@@ -19,7 +19,6 @@
   "example_single_string": {
     "en": "Single English text",
     "ru": "Single Russian text",
-    "de": "Single German text"
   },
 
   "example_achievement_title": {
@@ -31,17 +30,15 @@
     {
       "en": "Settings",
       "ru": "Настройки",
-      "de": "Einstellungen"
     },
     {
       "en": "Apply",
       "ru": "Применить",
-      "de": "Anwenden"
     },
     {
       "en": "Cancel",
       "ru": "Отмена",
-      "de": "Abbrechen"
     }
   ]
 }
+
